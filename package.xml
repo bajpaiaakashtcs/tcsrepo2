@@ -3,11 +3,7 @@
     <types>
         <members>Case</members>
         <name>CustomObject</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>Layout</name>
-    </types>
+    </types>    
     <types>
         <members>GSO Basic User_Salesforce</members>
         <name>Profile</name>
